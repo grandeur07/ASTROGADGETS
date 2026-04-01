@@ -40,7 +40,7 @@ const Endnote = () => {
         <div className="footer-section">
           <h2 className="footer-logo">AstroGadgets</h2>
           <p>
-            Premium Accessories, Trusted Dealers, and Nonstop Playing— All in one place
+            Premium Accessories, Trusted Dealers, and Nonstop Playing — All in one place
           </p>
         </div>
 
