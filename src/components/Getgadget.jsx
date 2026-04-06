@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { useEffect, useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import axios from 'axios'
-import styles from '../MyComponent.module.css'
 
 import blackops7 from '../images/blackops7.jpg'
 import fc26 from '../images/fc26.webp'
