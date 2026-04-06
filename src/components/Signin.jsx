@@ -1,9 +1,5 @@
 import axios from 'axios'
-<<<<<<< HEAD
 import { useState } from 'react'
-=======
-import React, { useState } from 'react'
->>>>>>> 8a40be0da70e08cdf93a6c6de38b69bdba5194c2
 import { Link, useNavigate } from 'react-router-dom'
 
 
@@ -33,11 +29,7 @@ const handleSignin = async(e) =>{
 
     // Adding base url
     const response = await axios.post("https://mathiasoryx.alwaysdata.net/api/signin",formData)
-<<<<<<< HEAD
     if(response.data.user){
-=======
-    if(response.data. user){
->>>>>>> 8a40be0da70e08cdf93a6c6de38b69bdba5194c2
       setSuccess(response.data.Message)
       setLoading("  ")
       localStorage.setItem("user",JSON.stringify(response.data.user))
