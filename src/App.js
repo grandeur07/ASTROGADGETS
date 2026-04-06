@@ -25,7 +25,7 @@ function App() {
           <div className='row'>
             <div className='col-md-12'>
               <nav className='navbar navbar-expand-md  m-2'>
-                <a href="#" class="navbar-brand ">
+                <a href="/" class="navbar-brand ">
                   <h1 className='text-white'>ASTROGAMES</h1>
                 </a>
 
