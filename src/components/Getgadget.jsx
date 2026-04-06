@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import axios from 'axios'
+=======
+import React, { useEffect, useState } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
+import axios from 'axios'
+import styles from '../MyComponent.module.css'
+>>>>>>> 8a40be0da70e08cdf93a6c6de38b69bdba5194c2
 
 import blackops7 from '../images/blackops7.jpg'
 import fc26 from '../images/fc26.webp'

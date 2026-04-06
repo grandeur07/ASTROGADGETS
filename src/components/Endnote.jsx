@@ -1,5 +1,6 @@
 import React from 'react'
 
+<<<<<<< HEAD
 const Endnote = () => {
   return (
     <div>
@@ -150,6 +151,18 @@ const Endnote = () => {
             color: #888;
           }
         `}</style>
+=======
+
+const Endnote = () => {
+  return (
+    <div>
+      
+
+
+
+      <footer class="text-light bg-dark p-2 text-center">
+        <h5>Developed by Grandeur.&copy; 2026. All Rights Reserved</h5>
+>>>>>>> 8a40be0da70e08cdf93a6c6de38b69bdba5194c2
       </footer>
     </div>
   )

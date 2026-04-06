@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { useState } from 'react'
+=======
+import React, { useState } from 'react'
+>>>>>>> 8a40be0da70e08cdf93a6c6de38b69bdba5194c2
 import { Link } from 'react-router-dom'
 import axios from 'axios'
 
